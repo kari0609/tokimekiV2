@@ -1,0 +1,11 @@
+/* style.css */
+.stApp {
+    background-color: rgb(135, 206, 235);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+h1 {
+    color: yellow; /** 見出しの文字色を指定 **/
+}
